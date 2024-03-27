@@ -1,2 +1,7 @@
-# Teori-Struktur-Data-Assigment
-Repository ini merupakan repository yang digunakan untuk mengumpulkan tugas teori. Repository ini dimiliki oleh Rizal Wahyu Pratama
+## Repository Praktikum Algoritma dan Struktur Data
+
+<pre>
+Nama : Rizal Wahyu Pratama
+NIM : 2311110029
+Kelas : S1SD-04-B
+</pre>
